@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/task-online-shop/static/css/main.7dbb2302.css",
+    "main.css": "/task-online-shop/static/css/main.7352fd0e.css",
     "main.js": "/task-online-shop/static/js/main.34a1cc5c.js",
     "static/media/content-img.png": "/task-online-shop/static/media/content-img.d5465ba2cfebf9557fa5.png",
     "static/media/image2.png": "/task-online-shop/static/media/image2.7deba10d76eb3f8b5422.png",
@@ -32,11 +32,11 @@
     "static/media/menu-bureger-catalog.svg": "/task-online-shop/static/media/menu-bureger-catalog.da577c811d29fe9668c6cbeb103b79b5.svg",
     "static/media/home_filled.svg": "/task-online-shop/static/media/home_filled.735ae5eb0e8fcb7d216b1315975ba263.svg",
     "static/media/menu-burger.svg": "/task-online-shop/static/media/menu-burger.b078067197fe41dc0c6d931970efbd69.svg",
-    "main.7dbb2302.css.map": "/task-online-shop/static/css/main.7dbb2302.css.map",
+    "main.7352fd0e.css.map": "/task-online-shop/static/css/main.7352fd0e.css.map",
     "main.34a1cc5c.js.map": "/task-online-shop/static/js/main.34a1cc5c.js.map"
   },
   "entrypoints": [
-    "static/css/main.7dbb2302.css",
+    "static/css/main.7352fd0e.css",
     "static/js/main.34a1cc5c.js"
   ]
 }
