@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/task-online-shop/static/css/main.7dbb2302.css",
+    "main.js": "/task-online-shop/static/js/main.4be73e0c.js",
+    "static/media/content-img.png": "/task-online-shop/static/media/content-img.d5465ba2cfebf9557fa5.png",
+    "static/media/image2.png": "/task-online-shop/static/media/image2.7deba10d76eb3f8b5422.png",
+    "static/media/image3.png": "/task-online-shop/static/media/image3.34b6287c8adbb0d5f0bf.png",
+    "static/media/image4.png": "/task-online-shop/static/media/image4.9042e415f089d1f58499.png",
+    "static/media/image1.png": "/task-online-shop/static/media/image1.bc02cec4037343a2ccae.png",
+    "static/media/img-tel.png": "/task-online-shop/static/media/img-tel.e01cfc46d27c1974ec41.png",
+    "static/media/3.png": "/task-online-shop/static/media/3.1b43de4bad86b6ead1e3.png",
+    "static/media/mastercard.svg": "/task-online-shop/static/media/mastercard.a7251cbc0ed5cacb59c9280434047e6a.svg",
+    "static/media/4.jpg": "/task-online-shop/static/media/4.1e8dfb7c162e32f56061.jpg",
+    "static/media/2.png": "/task-online-shop/static/media/2.9ba1d96bb1281bad5daf.png",
+    "static/media/mir.svg": "/task-online-shop/static/media/mir.5c90d1d0b41dd479dfac98718fbbf46a.svg",
+    "static/media/visa.svg": "/task-online-shop/static/media/visa.c8e85c16b89c7b17b096b20bbe145cb1.svg",
+    "static/media/bank.png": "/task-online-shop/static/media/bank.c8667e5550f5963db264.png",
+    "static/media/1.png": "/task-online-shop/static/media/1.f1c6c4279b27293ee48f.png",
+    "static/media/auto.png": "/task-online-shop/static/media/auto.188eec2f212af812d6b7.png",
+    "static/media/garage.png": "/task-online-shop/static/media/garage.9b0b6f55bf6a173b9245.png",
+    "static/media/viber.svg": "/task-online-shop/static/media/viber.f2c22f745a88bc51a9d4fd1b2434ddc8.svg",
+    "static/media/up.svg": "/task-online-shop/static/media/up.6b792eb6d9a0fa8ca8f09d3d19427bb4.svg",
+    "static/media/heart.svg": "/task-online-shop/static/media/heart.4f7d9164d9aec9ae5e31c9f0061eb692.svg",
+    "static/media/right.svg": "/task-online-shop/static/media/right.5d1b4774c82dd53d547ade948f7fe7e2.svg",
+    "static/media/basket.svg": "/task-online-shop/static/media/basket.3abc3320f5ed7783ed11d6f1c44cd069.svg",
+    "static/media/vk.svg": "/task-online-shop/static/media/vk.05e49752e43264c2113d386e1792e028.svg",
+    "index.html": "/task-online-shop/index.html",
+    "static/media/local_phone.svg": "/task-online-shop/static/media/local_phone.9883360126d3fc82649a6072020001ef.svg",
+    "static/media/entrance.svg": "/task-online-shop/static/media/entrance.7a890296210444c448aa582a04fbf444.svg",
+    "static/media/telegramm.svg": "/task-online-shop/static/media/telegramm.c4b221f9e455bf91d9ab0b2e4dc345e9.svg",
+    "static/media/mail.svg": "/task-online-shop/static/media/mail.84bced2b3087151c5e28306b68f2b5e9.svg",
+    "static/media/menu-bureger-catalog.svg": "/task-online-shop/static/media/menu-bureger-catalog.da577c811d29fe9668c6cbeb103b79b5.svg",
+    "static/media/home_filled.svg": "/task-online-shop/static/media/home_filled.735ae5eb0e8fcb7d216b1315975ba263.svg",
+    "static/media/menu-burger.svg": "/task-online-shop/static/media/menu-burger.b078067197fe41dc0c6d931970efbd69.svg",
+    "main.7dbb2302.css.map": "/task-online-shop/static/css/main.7dbb2302.css.map",
+    "main.4be73e0c.js.map": "/task-online-shop/static/js/main.4be73e0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dbb2302.css",
+    "static/js/main.4be73e0c.js"
+  ]
+}
