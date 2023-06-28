@@ -1,7 +1,7 @@
 import React from "react";
 import s from "./Header.module.scss";
 import viber from "../../assets/icon/Header/viber.svg";
-import telegremm from "../../assets/icon/Header/viber.svg";
+import telegremm from "../../assets/icon/Header/telegramm.svg";
 import burgerCatalog from "../../assets/icon/Header/menu-bureger-catalog.svg";
 import menuBerger from "../../assets/icon/Header/menu-burger.svg";
 
