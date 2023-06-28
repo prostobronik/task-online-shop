@@ -1,0 +1,39 @@
+.slideshow {
+  margin: 0 auto;
+  max-width: 1280px;
+  margin-bottom: 16px;
+}
+
+.slideshowSlider {
+  white-space: nowrap;
+  transition: ease 1000ms;
+}
+
+.slideshowDots {
+  text-align: center;
+  @media (max-width: 428px) {
+    position: relative;
+    z-index: 1000;
+  }
+}
+
+.slideshowDot {
+  display: inline-block;
+  cursor: pointer;
+  margin: 15px 7px 0px;
+  width: 12px;
+  height: 12px;
+  background: rgba(40, 40, 40, 0.5);
+  opacity: 0.4;
+  border-radius: 10px;
+
+  @media (max-width: 428px) {
+    width: 8px;
+    height: 8px;
+  }
+}
+
+.active {
+  background: #2a5cf6;
+  opacity: 1;
+}

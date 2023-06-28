@@ -1,0 +1,167 @@
+.cardMainInfo {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  margin: 0 80px 59px 80px;
+  padding: 0px;
+  gap: 24px;
+
+  @media (max-width: 428px) {
+    overflow-x: scroll;
+    padding: 20px;
+    margin: 0;
+    gap: 12px;
+  }
+
+  .card {
+    width: 237px;
+    height: 262px;
+    background: linear-gradient(
+        331.63deg,
+        #5877fe -3.97%,
+        rgba(255, 255, 255, 0) 74.87%,
+        rgba(255, 255, 255, 0) 74.87%
+      ),
+      linear-gradient(35.39deg, #c2fff8 -1.03%, #ffffff 69.8%);
+    border-radius: 40px;
+
+    .card_info {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 0px;
+      margin: 24px 24px 0 24px;
+      gap: 8px;
+      width: 189px;
+
+      h2 {
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+        letter-spacing: 0.1px;
+        color: #282828;
+      }
+      p {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+        letter-spacing: 0.1px;
+        color: #525252;
+        opacity: 0.6;
+      }
+    }
+
+    @media (max-width: 428px) {
+      width: 154px;
+      height: 203px;
+      border-radius: 25px;
+
+      .card_info {
+        max-width: 80%;
+        margin: 15px 15px 0 15px;
+        gap: 3px;
+
+        h3 {
+          font-size: 12px;
+        }
+        p {
+          font-size: 10px;
+          line-height: 11px;
+        }
+      }
+    }
+  }
+
+  .card_1 {
+    position: relative;
+    .sber {
+      position: absolute;
+      left: 0;
+      bottom: 30%;
+    }
+    .wb {
+      position: absolute;
+      right: 0;
+      bottom: 25%;
+    }
+    .ozon {
+      position: absolute;
+      bottom: 0;
+      right: 20%;
+    }
+    .ya {
+      position: absolute;
+      left: 1%;
+      bottom: 0;
+    }
+    @media (max-width: 428px) {
+      .sber {
+        width: 90px;
+        height: 20px;
+      }
+      .ya {
+        width: 35.03px;
+        height: 36.977px;
+      }
+      .ozon {
+        width: 60.979px;
+      }
+      .wb {
+        width: 60.979px;
+        height: 46.707px;
+      }
+    }
+  }
+
+  .card_2 {
+    position: relative;
+    .bank {
+      position: absolute;
+      bottom: 0;
+      left: 3%;
+    }
+    @media (max-width: 428px) {
+      .bank {
+        width: 146px;
+      }
+    }
+  }
+  .card_3 {
+    position: relative;
+
+    .birka {
+      position: absolute;
+      bottom: 0;
+      right: 0;
+    }
+    @media (max-width: 428px) {
+    }
+  }
+  .card_4 {
+    position: relative;
+
+    .auto {
+      position: absolute;
+      bottom: 0;
+      right: 0;
+    }
+    @media (max-width: 428px) {
+      .auto {
+        width: 140px;
+      }
+    }
+  }
+  .card_5 {
+    position: relative;
+    .garage {
+      position: absolute;
+      bottom: 0;
+      left: 10%;
+    }
+    @media (max-width: 428px) {
+      .garage {
+        width: 150px;
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+.content_info {
+  margin-left: 106px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap-reverse;
+
+  .content_text {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 628px;
+    margin-right: 47px;
+    gap: 12px;
+  }
+  p {
+    max-width: 628px;
+  }
+  .content_img_tel {
+    display: none;
+  }
+
+  @media (max-width: 1400px) {
+    display: block;
+    margin-left: 24px;
+
+    .title {
+      width: 100%;
+    }
+    .content_img_tel {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      max-height: 100%;
+    }
+    .content_img {
+      display: none;
+    }
+  }
+}
